@@ -8,7 +8,6 @@ The **Smart Job Application Tracker** helps job seekers track every step of thei
 Instead of using spreadsheets, bookmarks, or scattered documents — this tracker centralizes everything into one smart system.
 
 ---
-
 ## ✨ Features
 
 ✅ Add & manage job applications (role, company, applied date, platform, salary, etc.)  

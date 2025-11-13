@@ -35,7 +35,7 @@ Instead of using spreadsheets, bookmarks, or scattered documents — this tracke
 | Deployment | Docker + Render / Railway |
 | Extra | Celery (reminders), Redis, Chart.js, AI API (optional) |
 
----
+
 
 
 

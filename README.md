@@ -23,7 +23,7 @@ Instead of using spreadsheets, bookmarks, or scattered documents — this tracke
 ✅ Dark + Light mode UI  
 
 ---
-## 🛠 Tech Stack  *(example — edit as needed)*
+## 🛠 Tech Stack  *
 
 | Layer | Tech Used |
 |-------|-----------|
@@ -31,8 +31,8 @@ Instead of using spreadsheets, bookmarks, or scattered documents — this tracke
 | Backend | Django REST Framework |
 | Database | PostgreSQL |
 | Auth | JWT / Django Auth |
-| Deployment | Docker + Render / Railway |
-| Extra | Celery (reminders), Redis, Chart.js, AI API (optional) |
+| Deployment | Docker + Render  |
+| Extra | Celery (reminders), Redis, Chart.js, |
 
 
 

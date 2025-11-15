@@ -23,7 +23,7 @@ Instead of using spreadsheets, bookmarks, or scattered documents — this tracke
 ✅ Dark + Light mode UI  
 
 ---
-## 🛠 Tech Stack  *
+## 🛠 Tech Stack  
 
 | Layer | Tech Used |
 |-------|-----------|
